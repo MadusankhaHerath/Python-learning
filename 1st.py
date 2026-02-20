@@ -7,3 +7,14 @@ print("hello world")
 print("hello world", end=" ")
 print("how are you?")
 
+# for loop
+for i in range(5):
+    print(i)
+
+
+#while loop
+count = 0
+
+while count < 5:
+    print(count)
+    count += 1
